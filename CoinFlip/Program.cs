@@ -45,7 +45,7 @@ namespace CoinFlip
             }
             else
             {
-                Console.WriteLine("You have guessed incorrectly");
+                Console.WriteLine("Too bad, try again.");
             }
             Console.WriteLine("developer " + developer);
 
